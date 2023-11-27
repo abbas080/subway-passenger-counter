@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(20, 170, 194, 10);
+    background-size: cover;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 500%;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#increment-btn {
+    border-color: rgb(89, 6, 6);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgb(89, 6, 6);
+    margin-top: 10px;
+}
+
+#save-btn {
+    border-color: rgb(89, 6, 6);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgb(89, 6, 6);
+    margin-top: 10px;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(4, 26, 0);
+    /* background-color: rgb(6, 89, 10); */
+    margin-top: 10px;
+    font-size: 20px;
+
+}
